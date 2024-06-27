@@ -1,0 +1,12 @@
+{
+                "email_address": "jp.charles@medis-sante.fr",
+                "first_name": "JEAN-PHILIPPE",
+                "last_name": "CHARLES",
+                "drivers_license": {
+                    "issuing_country": "France",
+                    "issue_date": "1984-03-19",
+                    "issuing_authority": "france",
+                    "license_number": "831149104219",
+                    "iso_country_code": "FR"
+                }
+                
